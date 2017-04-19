@@ -1,0 +1,2 @@
+t = ('tump',)
+print t
